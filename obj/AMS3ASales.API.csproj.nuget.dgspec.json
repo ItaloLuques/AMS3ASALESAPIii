@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj": {}
+    "D:\\angular\\3A\\Sales\\API\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj": {}
   },
   "projects": {
-    "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj": {
+    "D:\\angular\\3A\\Sales\\API\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj",
+        "projectUniqueName": "D:\\angular\\3A\\Sales\\API\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj",
         "projectName": "AMS3ASales.API",
-        "projectPath": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj",
-        "packagesPath": "C:\\Users\\Fatec Taqua. 16\\.nuget\\packages\\",
-        "outputPath": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\obj\\",
+        "projectPath": "D:\\angular\\3A\\Sales\\API\\AMS3ASales.API\\AMS3ASales.API\\AMS3ASales.API.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\angular\\3A\\Sales\\API\\AMS3ASales.API\\AMS3ASales.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fatec Taqua. 16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

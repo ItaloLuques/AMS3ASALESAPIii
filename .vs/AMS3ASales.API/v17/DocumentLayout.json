@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\",
+  "WorkspaceRootPath": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\users\\fatec taqua. 17\\desktop\\ams3asales.api\\ams3asales.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\users\\fatec taqua. 17\\desktop\\ams3asales.api\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\users\\fatec taqua. 17\\desktop\\ams3asales.api\\ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\users\\fatec taqua. 17\\desktop\\ams3asales.api\\ams3asales.api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|c:\\users\\fatec taqua. 17\\desktop\\ams3asales.api\\ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|d:\\3a ed 2024\\ams3asales.api\\ams3asales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD3229B-4F63-44CB-86A3-615630C371D7}|AMS3ASales.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,76 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs",
+              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Product.cs",
-              "ToolTip": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs*",
-              "RelativeToolTip": "Domain\\Product.cs*",
+              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:53:25.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:53:25.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs*",
-              "RelativeToolTip": "Controllers\\ProductController.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAIA5wBcAAAAPAAAA",
+              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwBcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:46:31.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
+              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "Domain\\Category.cs",
-              "ToolTip": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
+              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Domain\\Category.cs",
               "RelativeToolTip": "Domain\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:38:19.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:38:19.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAA1wCMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:26:19.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:26:19.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
+              "DocumentMoniker": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Fatec Taqua. 17\\Desktop\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
+              "ToolTip": "D:\\3A ED 2024\\AMS3ASales.API\\AMS3ASales.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T16:24:02.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T16:24:02.941Z"
             }
           ]
         }

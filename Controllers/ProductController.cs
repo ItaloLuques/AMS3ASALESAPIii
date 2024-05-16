@@ -33,8 +33,13 @@ namespace AMS3ASales.API.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post(Product product)
+        public ActionResult Post(ProductRequest productRequest)
         {
+            var product =  new Product(){
+                Description = productRequest.Description,
+                IsActive = true,
+                ImageURL = productRequest.ImageURL
+            };
             _context.Product.Add(product);
             _context.SaveChanges();
 
