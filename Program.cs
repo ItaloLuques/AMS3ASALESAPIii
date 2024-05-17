@@ -13,11 +13,13 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ApplicationDataContext>(options =>
 options.UseSqlite(builder.Configuration.GetConnectionString("DefaultContext")));
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+
     app.UseSwagger();
     app.UseSwaggerUI();
 }
@@ -25,6 +27,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseCors();
 
 app.MapControllers();
 
